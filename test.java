@@ -3,7 +3,9 @@ import java.util.LinkedHashSet;
 import java.util.Map;
 import java.util.Set;
 
-
+# This class file is for an example in Java Collections Framework
+# This is a project I did under Java tutorial
+#
 public class JCFComDataClass {
 
 	public static String[] vehicles = {"Ford", "Chevrolet", "Volkswagen", "Volvo", "Mercedes"};

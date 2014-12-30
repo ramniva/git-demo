@@ -10,3 +10,9 @@ Kailash Satyarthi: The child right activist was conferred the 2014 Nobel Peace P
 Nobel Laureate Satyarthi is the founder of 'Bachbapn Bachao Andolan' that works towards rescuing children from bonded labour. 
 So far he has saved more than 80, 000 children from child slavery in around 100 countries. His organisation 'Bachbapn Bachao Andolan' 
 was founded in 1980 and since then it has been instrumental in providing rehabilitation to rescued children. 
+
+# This is some stuff about Narendra Modi
+Narendra Modi: Prime Minister Narendra Modi’s rock star like reception by a rapturous Indian-American community at 
+Madison Square Garden made quite a splash in the US media. His promise to improve the ease of doing business, liberalise 
+the visa system and the invitation to participate actively in the acceleration of national development resonated with 
+Indian communities abroad. 
