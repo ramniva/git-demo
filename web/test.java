@@ -4,7 +4,9 @@ import java.util.Map;
 import java.util.Set;
 
 # This class file is for an example in Java Collections Framework
-# This is a project I did under Java tutorial
+# This is a project I did under Java tutorial.
+# Using it as a test file for git and github training. Jan.2, 2015
+# Doing through my ramniva account on github
 #
 public class JCFComDataClass {
 
